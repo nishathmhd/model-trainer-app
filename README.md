@@ -1,4 +1,4 @@
-# model-trainer-app
+# Model-trainer-app
 
 Model Trainer is a web application built using Streamlit, a Python library for creating interactive web apps for machine learning and data science projects.
 
